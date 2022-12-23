@@ -1,5 +1,5 @@
-
-# 🍌 Banana Serverless
+# 🍌 Banana TTS Serverless
+TTS Model: https://github.com/synesthesiam/coqui-docker/tree/master/coqui-tts
 
 This repo gives a framework to serve ML models in production using simple HTTP servers.
 
